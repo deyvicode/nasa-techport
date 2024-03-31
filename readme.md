@@ -10,7 +10,7 @@ Para instalar este proyecto en un entorno local (su computador) abra la terminal
 **1. Clonar el repositorio** \
 Para este paso es necesario tener instalado [Git](https://git-scm.com/).
 ``` shell
-git clone 
+git clone https://github.com/deyvicode/nasa-techport.git
 ```
 **2. Variables de entorno** \
 Al ejecutar el projecto necesitaremos credenciales de conexion a la base de datos Redshift. 
